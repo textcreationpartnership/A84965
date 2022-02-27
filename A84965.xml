@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A representation from his Excellency Sir Thomas Fairfax, and the generall Councel of the Army. Expressing the desires of the Army in relation to themselves as souldiers; in which they desire satisfaction before disbanding. Tendred to the Right Honourable the Commissioners of Parliament residing with the Army, Sept. 21. to be by them represented to the Parliament. By the appointment of his Excellency Sir Thomas Fairfax and the generall councell of the Army. John Rushworth Secret.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84965</idno>
+            <idno type="STC">Wing F230</idno>
+            <idno type="STC">Thomason E408_11</idno>
+            <idno type="STC">ESTC R204679</idno>
+            <idno type="EEBO-CITATION">99864145</idno>
+            <idno type="PROQUEST">99864145</idno>
+            <idno type="VID">160544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160544)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A representation from his Excellency Sir Thomas Fairfax, and the generall Councel of the Army. Expressing the desires of the Army in relation to themselves as souldiers; in which they desire satisfaction before disbanding. Tendred to the Right Honourable the Commissioners of Parliament residing with the Army, Sept. 21. to be by them represented to the Parliament. By the appointment of his Excellency Sir Thomas Fairfax and the generall councell of the Army. John Rushworth Secret.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Partridge, in Black-fryers at the gate going into Carter-lane,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 24".</note>
+                  <note>In this edition, line 14 on title page ends: Tho-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160544:1" rendition="simple:additions"/>
+            <p>A REPRESENTATION From his Excellency Sir <hi>THOMAS FAIRFAX,</hi> And the generall <hi>Councel</hi> of the ARMY.</p>
+            <p>EXPRESSING The Deſires of the ARMY in relation to themſelves as <hi>Souldiers;</hi> in which they deſire ſatisfaction before Disbanding.</p>
+            <p>Tendred to the Right Honourable the Com<g ref="char:EOLhyphen"/>miſſioners of Parliament reſiding with the ARMY, <hi>Sept.</hi> 21. to be by them repreſented to the PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By the appointment of his Excellency Sir <hi>THO<g ref="char:EOLhyphen"/>MAS FAIRFAX</hi> and the generall councell of the Army.</p>
+                        <closer>
+                           <signed>
+                              <hi>JOHN R<g ref="char:V">Ʋ</g>SHWORTH</hi> Secret.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>7<hi rend="sup">ber</hi> 24</add> LONDON: Printed for <hi>John Partridge,</hi> in Black-fryers at the Gate going into Carter-lane 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160544:2"/>
+            <pb n="1" facs="tcp:160544:2"/>
+            <head>
+               <figure>
+                  <figDesc>Crown surmounting French fleur-de-lis flanked by a Tudor rose and Scottish thistle on either side, each surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>IN our Repreſentation or Declaration ſent from St. <hi>Albans;</hi> We did expreſſe in generall termes, what we deſired for the ſetling and ſecuring of the Rights, Liberties, Peace and Safety of the Kingdome; and ſince then, as the Diſtractions and interruptions we have met withall would admit; We have proceeded to prepare, and have lately delivered to your Lordſhips in particu<g ref="char:EOLhyphen"/>lar Propoſals. In purſuance of theſe Generall deſires, and in order to the ſame Ends, having in theſe ſet forth what our Deſires are, in the things which concerne us as Members of the Common-wealth, and in common with all others, we ſhall now deſire your Lordſhips to reminde the Parliament of our humble Deſires in theſe things which concerne us as ſouldiers; and of our diſ<g ref="char:EOLhyphen"/>ſatisfactions in relation thereunto: which remained up<g ref="char:EOLhyphen"/>on us, when ſome Regiments of the Armie, are voted to be disbanded.</p>
+            <p>For which purpoſe, we have now prepared, and do herewith tender to your Lordſhips our particular de<g ref="char:EOLhyphen"/>ſires, in purſuance of our former papers, publiſhed be<g ref="char:EOLhyphen"/>fore our coming to St. <hi>Albanes;</hi> in order to the ſatiſ<g ref="char:EOLhyphen"/>faction and ſecurity of the Army, and other the Parli<g ref="char:EOLhyphen"/>aments
+<pb n="2" facs="tcp:160544:3"/>forces, in point of Arreares, and other things that concerne us as ſouldiers.</p>
+            <p>Which we deſire may be humbly repreſented to the Parliament, to be taken into a ſpeedy conſideration; as may be the matter of the firſt Article, concerning the preſent ſtating of Accounts, and giving Debentures for Arreares, to be ſpeedily put in execution, or ſet in a way of diſpatch; and the reſt of them to be agreed up<g ref="char:EOLhyphen"/>on, and provided for, and included in any ſetling of a Peace, which we ſhall heartily pray for.</p>
+            <closer>
+               <dateline>Putney <date>21. of September 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellencie Sir <hi>THOMAS FAIRFAX.</hi> and the generall Councel of the Armie.Signed John Ruſhworth.</signed>
+            </closer>
+            <trailer>For the Right Honourable, the Lords and Commons, Commiſſioners of Par<g ref="char:EOLhyphen"/>liament, reſiding with the Army.</trailer>
+         </div>
+         <div type="response_to_petition">
+            <pb n="3" facs="tcp:160544:3"/>
+            <opener>
+               <dateline>
+                  <date>Putney, September 21. 1647.</date>
+               </dateline>
+            </opener>
+            <p>FIrſt, That a Committee or Commiſſioners be appointed by the Parliament to come downe, and abide at the Head<g ref="char:EOLhyphen"/>quarters of the Army, with full power and authority to Audite and State the Accounts thereof, and to give De<g ref="char:EOLhyphen"/>bentures, as well for the pay reſpited upon the Publique Faith, as otherwiſe for their ſervice under the command of his Ex<g ref="char:EOLhyphen"/>cellency Sir <hi>Thomas Fairfax,</hi> or any other reſpective Command wherein they or any of them have formerly ſerved the Parlia<g ref="char:EOLhyphen"/>ment; that ſo what ſhall appeare juſtly due upon the ſaid De<g ref="char:EOLhyphen"/>bentures, may be made an unqueſtionable Debt unto them: And for the more effectuall accompliſhment thereof, we deſire, that the reſpective Treaſurers and Commiſſaries of Muſters of the ſeverall Armies may be commanded to attend the ſaid Committee or Commiſſioners; That thereby the Arreares of any perſon of this Army incurred in other Armies or Garri<g ref="char:EOLhyphen"/>ſons, who by his or their continuall attendance upon the Ser<g ref="char:EOLhyphen"/>vice, have not had their Accounts audited and ſtated, may now be fully accounted for, without further trouble. And for as much as the Accounts of many who are now Members of this Army, and have formerly ſerved the Parliament under o<g ref="char:EOLhyphen"/>ther Commands, through the neglect or want of Muſters, loſſe of Papers, death of Officers, taking of Garriſons, &amp;c. and will be very difficult to be cleered, to what they will be for the ſer<g ref="char:EOLhyphen"/>vice under the command of his Excellency Sir <hi>Thomas Fairfax,</hi> where Muſters have been certaine and Accounts better kept,
+<pb n="4" facs="tcp:160544:4"/>and ſuch contingencies as aforeſaid have not happened. We humbly offer that the ſaid Committee or Commiſſioners may have ſuch full Inſtructions that where Certificates from ſupe<g ref="char:EOLhyphen"/>rior Officers cannot poſſibly be obtained, or other ſufficient te<g ref="char:EOLhyphen"/>ſtimony had, the Oath of ſuch perſons may be taken, and va<g ref="char:EOLhyphen"/>lid as to the ſtating of their Accounts. And in regard there re<g ref="char:EOLhyphen"/>maines a diſſatisfaction upon the Army, grounded upon the Inſtructions made for the Auditing of our Accounts, and pub<g ref="char:EOLhyphen"/>liſhed at the Randezvouz of the Army, at <hi>Triploe-Heath</hi> in order to our ſatisfaction, wherein care is taken for the abatement for free Quarter, when Monies have been received, and Quarters not accordingly ſatisfied; but no notice taken of payment of Quarters at any time beyond our proportions of pay received, or any regard had of the ſeverall hardſhips, wants and extre<g ref="char:EOLhyphen"/>mities we have been put upon in times of eminent Services, <hi>viz.</hi> difficult Marches, continuall Motions, and tedious Leaguers, &amp;c. whereby the greatneſſe of our Body, or cloſeneſſe of Po<g ref="char:EOLhyphen"/>ſture in quartering, there hath been ſuch ſcarcity in Proviſion, that both Officers and Souldiers have been put to extreame ex<g ref="char:EOLhyphen"/>pences in procuring neceſſaries to live upon; and all this at ſuch time when no Monies have been ſent us, and hereupon proceede made to the ſeverall large deductions thereafter ſpe<g ref="char:EOLhyphen"/>cified, which we neither then, nor yet can ſee good grounds for. We humbly offer, That the two Houles will be pleaſed to reaſſume the Conſideration of the ſaid Inſtructions, and thinke upon ſome expedient whereby our Deductions for free Quarter may be moderated, as to the Inſtructions aforeſaid; and that no perſon who hath conſtantly paid Quarters may be put upon any Deduction, or any Officer be accountable for any thing, ſave that which particularly concernes him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p>And fursher, we deſire there may be effectuall courſe and proviſion made for the ſtating the Accompts, and ſecuring the Arrears of thoſe the Souldiers of the Kingdom, who have faithfully ſerved the Kingdom and concurred with this Army in their late Engagement.</p>
+            <p>That whereas divers of the Horſemen of this Army, upon
+<pb n="5" facs="tcp:160544:4"/>the loſſe of their Horſes in the Parliaments Service, have at their own charge furniſhed themſelves with others for the ſaid Service, and happily have again loſt certain of the ſaid Horſes ſo bought, whereby the State hath been ſerved, and the Soul<g ref="char:EOLhyphen"/>diers much damnified, We humbly deſire the two Houſes will be pleaſed to take it into their conſideration, that ſome con<g ref="char:EOLhyphen"/>venient ſatisfaction may be thought upon for ſuch as by ſuffi<g ref="char:EOLhyphen"/>cient teſtimoniall ſhall make it appear they have been damni<g ref="char:EOLhyphen"/>fied as aforeſaid.</p>
+            <p>Secondly, That proviſion may be forthwith made, and a viſible ſecurity given to ſatisfie the Arrears of the Army, in ſuch way and manner as may be leaſt burthenſom to the Com<g ref="char:EOLhyphen"/>mon-Wealth; in order to which we offer, That Biſhops lands, Deanes and Chapters lands, and Forreſt-lands, may be ſpeedi<g ref="char:EOLhyphen"/>ly ſet to Sale, or otherwiſe made over for the uſe aforeſaid, or any other way the Parliament in their wiſedomes ſhall think meet appearing ſatisfaction for the ſecurity of the ſaid Army.</p>
+            <p>Thirdly, That there may be an Ordinance for ſecuring all and every perſon in this Army, who have willingly ſerved the Parliament, from being impreſted out of this Kingdom to any forreign Service, and that no Horſeman ſhall be forced to ſerve on Foot in any future Caſe; and for the more reall ef<g ref="char:EOLhyphen"/>fecting hereof, we deſire, every ſuch perſon as aforeſaid as ſhall have a Certificate under the Generalls, or his reſpective Field-Officers or Captains hand, that he hath ſerved in this Army, which he may carry about him or keep by him, or producing ſuch a Ticket he may be diſcharged, and that if any Officer ſhall detain any ſuch perſon after the ſight of ſuch teſtimoni<g ref="char:EOLhyphen"/>all, there may be a certain penaltie inflicted upon him.</p>
+            <p>Fourthly, That the Ordinances concerning Apprentices Freedom that have ſerved the Parliament, may be made an Act before or at the ſetling of a Peace.</p>
+            <p>Fifthly, That the Ordinance concerning proviſion for maimed Souldiers and the Widdows and Orphans of men ſlain in the Parliaments Service, may likewiſe be made an Act.</p>
+            <p>Sixthly, That to the Ordinance lately paſſed for Indemp<g ref="char:EOLhyphen"/>nity, there may be an additionall proviſion for ſaving harm<g ref="char:EOLhyphen"/>leſſe
+<pb n="6" facs="tcp:160544:5"/>and indempnified the Army and all the Members of it, as alſo all that have acted in concurrence with it, and for ſecu<g ref="char:EOLhyphen"/>ring of them from all trouble, queſtion, or prejudice for or concerning any thing done, in, upon, or in purſuance of the Petition of the Army, agreed upon at <hi>Walden</hi> in <hi>March</hi> laſt, or upon the Papers ſince then preſented and publiſhed from the Army, or any the things therein contained, or for or concern<g ref="char:EOLhyphen"/>ing any thing ſpoken or done in relation to or in vindication of the Army from the injuries or extremities put upon it about the ſaid Petition, or ſince; Which additionall proviſions we deſire may (together with the ſaid Ordinances for Indempni<g ref="char:EOLhyphen"/>ty) be paſt into Acts at the ſetling of a Peace, ſo as we nor others, may not (for what we have done or inſiſted on in ne<g ref="char:EOLhyphen"/>ceſſary defence or vindication of our ſelves, as Souldiers, from ruine or inſufferable injuries and oppreſſions, or in behalf of the Common-Wealth, for the ſetling and ſecuring of the Rights, Liberties, and Peace and Safety thereof,) remain ſubject to the malice or preſſures of ours and the Kingdomes Enemies (whom we have oppoſed) upon any future ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <closer>
+               <dateline>Putney, <date>Sept. 21. 1647.</date>
+               </dateline>
+               <signed>By the Appointment of his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>THOMAS FAIR<g ref="char:EOLhyphen"/>FAX,</hi> and the Generall Coun<g ref="char:EOLhyphen"/>ſel of the Army. <hi>JO. RUSHWORTH, Secret.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
